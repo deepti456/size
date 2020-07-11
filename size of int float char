@@ -1,0 +1,11 @@
++#include<iostream>
+using namespace std;
+int main()
+{int a;
+float b;
+char c;
+cout<<"size of int is"<<sizeof(a);
+cout<<"size of float is"<<sizeof(b);
+cout<<"size of char is "<<sizeof(c);
+
+}
